@@ -297,7 +297,7 @@ const ForgotPassword = (props) => {
 <TextInput
                             label={
                                 <Text>
-                                  <Text>Username</Text>
+                                  <Text>Username uoifhd</Text>
                                   <Text style={{ color: 'red' }}>*</Text>
                                 </Text>
                               }
